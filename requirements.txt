@@ -1,3 +1,6 @@
-Flask
-TikTokApi[default-no-browser]
-gunicorn
+fastapi
+uvicorn
+TikTokApi[playwright]
+playwright
+python-multipart
+jinja2
